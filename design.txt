@@ -1,0 +1,24 @@
+Title: Breakout
+
+Description: A game where the user bounces a ball off of a paddle to break all the bricks on a level
+
+Objects: Ball:
+            move
+            bounce off wall
+            bounce off paddle
+            bounce off ceiling
+            bounce off and break brick
+            reset
+         Paddle:
+            move with mouse
+            size
+                height, width
+            abilities
+         Canvas:
+            width
+            height
+            color
+         Bricks:
+            strength
+            color
+            special
