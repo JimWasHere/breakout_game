@@ -11,6 +11,6 @@ Future upgrades:
   * Persistant High Score 
   * Level memory so user doesn't always have to start from scratch
 
-Screenshot:
+
 
 ![image](https://user-images.githubusercontent.com/98727234/167328156-c4c38d02-ffb4-4519-aa75-6e36c7e4d413.png)
