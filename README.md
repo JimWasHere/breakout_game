@@ -7,9 +7,9 @@ Built using Python Turtle module using Python classes. It allows the user to con
 increases during play by increasing the speed of the ball
 
 Future upgrades:
-  * More levels
-  * Persistant High Score 
-  * Level memory so user doesn't always have to start from scratch
+  * More levels.
+  * Persistant High Score. 
+  * Level memory so user doesn't always have to start from scratch.
 
 
 
